@@ -1,7 +1,7 @@
 # General description of project
 > Creating a personal score tracker to collect scores from tests for all subjects
-> 
-#Goals of project
+
+# Goals of project
 > Calculate future socres needed for EOY tests to attain a certain grade and prioritise subjetcs based on the amount of effort needed to put in
 > 
 # Listing of features
