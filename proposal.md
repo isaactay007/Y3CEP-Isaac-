@@ -1,5 +1,5 @@
 # General description of project
-> E.g. Building an inventory tracking system for my CCA
+> Creating a personal 
 
 #Goals of project
 > E.g. Streamline tracking and cataloguing of inventory to facilitate member loans, repairs & Semester stock-taking needs
@@ -19,9 +19,9 @@
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
-> - Week 5
-> - Week 6
-> - Week 7
+> - Week 5: nothing done
+> - Week 6: nothing done
+> - Week 7: read up on OOP guides, create 'template' for code
 > - Week 8
 > - Week 9
 > - Week 10
