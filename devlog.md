@@ -12,15 +12,16 @@
 [Example of Good/Bad Changelist descriptions](https://google.github.io/eng-practices/review/developer/cl-descriptions.html)
 
 ## Week 5 (26 Jul - 1 Aug)
-
+nothing done
 ## Week 6 (2 Aug - 8 Aug)
-
+nothing done
 ## Week 7 (9 Aug - 15 Aug)
-
+read up on OOP and functions of OOP before coming up with idea on making a score sheet for the upcoming EOYs
 ## Week 8 (16 Aug - 22 Aug)
-
+created skeleton framework (list to store the items, assigned variables, started a bit on class)
 ## Week 9 (23 Aug - 29 Aug)
-
+continued working on class, as well as the calculate function
 ## Week 10 (30 Aug - 5 Sep)
-
+worked on exception handling
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
+tried (but failed) to use FileIO to store values, wrote reflection piece and recorded video
